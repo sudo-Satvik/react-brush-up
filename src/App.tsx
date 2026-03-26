@@ -2,7 +2,7 @@ import Component from "./components/Component";
 
 function App() {
 
-  const currentTopic = "Curr Topic Here";
+  const currentTopic = "Counter Element";
 
   return (
     <div className="min-h-screen w-full flex flex-col bg-zinc-950 text-zinc-50 font-sans selection:bg-purple-500/30">
